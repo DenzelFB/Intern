@@ -9,5 +9,5 @@ Notice: Undefined index: interest in C:\xampp\htdocs\catalog\showshoes.php on li
 
 Acces to edit (add) products and catagories:
 adminindex.php
-Username: Admin
-Password: admin
+- Username: Admin
+- Password: admin
