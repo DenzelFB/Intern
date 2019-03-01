@@ -1,6 +1,6 @@
 <?php
 /* Program: frontpage.php
-* Desc: Displays opening page for Pet Store.
+* Desc: Displays opening page for Shoe Store.
 */
 ?>
 <html>
